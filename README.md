@@ -1,3 +1,3 @@
 # CIS241
-mMy first GitHub web page
+My first GitHub web page
 Muhammadou Drammeh
